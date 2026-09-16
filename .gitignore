@@ -1,0 +1,12 @@
+# Dependencies and generated output
+**/node_modules/
+**/dist/
+**/build/
+**/coverage/
+
+# Local settings and secrets
+**/.env
+**/.env.*
+!**/.env.example
+.DS_Store
+*.log

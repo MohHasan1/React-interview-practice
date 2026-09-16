@@ -1,0 +1,8 @@
+{
+  "code-runner.executorMap": {
+    "typescript": "node"
+  },
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.ignoreSelection": true
+}

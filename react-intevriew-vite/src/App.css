@@ -1,0 +1,16 @@
+.app {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #374151;
+}
+
+main {
+  padding-top: 24px;
+}
